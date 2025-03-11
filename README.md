@@ -1,9 +1,12 @@
 <div align="center">
-
-
- <h3 align="center">Upload AI -Video Sharing App</h3>
-
+ <h1 align="center">Upload AI - An AI Generated Video Sharing App</h3>
  </div>
+
+
+ ##  Download
+
+### Android
+- [Download for android](https://expo.dev/artifacts/eas/xdGgUpoLD2BbNKr1XZzB89.apk)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>

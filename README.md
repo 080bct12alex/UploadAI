@@ -8,6 +8,10 @@
 ### Android
 - [Download for android](https://expo.dev/artifacts/eas/xdGgUpoLD2BbNKr1XZzB89.apk)
 
+##  Preview
+- [Preview](https://i.ibb.co/KjGjYmxX/e9cc3c40-be6e-422f-bc60-d7e95b9b2d0d.jpg)
+
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
